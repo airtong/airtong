@@ -12,6 +12,7 @@
 
 - 📫 How to reach me: **airton-carvalho@outlook.com**  
   
+<!---
 <br/>  
 <br/>  
 <br/>  
@@ -20,11 +21,12 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtong&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airtong&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> 
+-->
 
 <br/>  
 <br/>  
-<br/>  
+<br/> 
 
 <div align="center"><h2>My Skill Set</h2></div>
 <div>
