@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **Inatel**  
   
 
-- 🌱 I’m currently learning **Python and NoSQL**  
+- 🌱 I’m currently learning **Python, NoSQL and DevOps**  
   
 
 - 📜 Know about my experiences: **Java. Web Development. Linux Environment. SQL.**  
