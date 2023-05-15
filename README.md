@@ -1,22 +1,18 @@
 ### <div align="center"><h1>Hey, there! It's Airton Gabriel! 👋</h1></div>  
   
 
-- 🔭 I’m currently working at **Inatel**  
+- 🔭 I’m currently working at **Wine.com.br**  
   
 
-- 🌱 I’m currently learning **Python, NoSQL and DevOps**  
+- 🌱 I’m currently learning **DevOps**  
   
 
-- 📜 Know about my experiences: **Java. Web Development. Linux Environment. SQL.**  
+- 📜 Know about my experiences: **Java. Python. SQL. Web Development. Linux Environment.**  
   
 
 - 📫 How to reach me: **airton-carvalho@outlook.com**  
   
 <!---
-<br/>  
-<br/>  
-<br/>  
-
 <div align="center"><h2>Github Stats</h2></div>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtong&layout=compact&langs_count=7&theme=dracula"/>
