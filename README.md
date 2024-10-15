@@ -4,10 +4,10 @@
 - 🔭 I’m currently working at **Wine.com.br**  
   
 
-- 🌱 I’m currently learning **DevOps**  
+- 🚀 I’m now a [AWS Certified](https://www.credly.com/badges/9afc84e3-5e38-46fc-9920-fda6d1ee7228). Running to the next one.
   
 
-- 📜 Know about my experiences: **Java. Python. SQL. Web Development. Linux Environment.**  
+- 📜 Know about my experiences: **DevOps. SRE. AWS. GCP. Terraform. CI/CD. Java. Python. SQL. Web Development. Linux Environment.**
   
 
 - 📫 How to reach me: **airton-carvalho@outlook.com**  
