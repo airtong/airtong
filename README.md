@@ -76,20 +76,24 @@
 
 ## Projects I participated in
 
-🚀 [MyKPI](https://github.com/MyKPI-Inatel/MyKPI_backend) - 2024
+### 🚀 [MyKPI](https://github.com/MyKPI-Inatel/MyKPI_backend) - 2024
 Platform that allows companies to carry out surveys with their employees, having detailed information about their team.
+
 I was responsible for back-end development, using Python, FastAPI and Pytest.
 
-📝 [Eventhis](https://github.com/S204-Inatel-2023-2/binaryhorizon_eventhis_front) - 2023
+### 📝 [Eventhis](https://github.com/S204-Inatel-2023-2/binaryhorizon_eventhis_front) - 2023
 Platform that lists events in your region, where you can purchase tickets and check in using facial recognition.
+
 I was responsible for front-end development, using Ionic and Angular
 
-🏎️ [Used Cars](https://github.com/lrgsouza/used-cars-api) - 2022
+### 🏎️ [Used Cars](https://github.com/lrgsouza/used-cars-api) - 2022
 Platform for buying used cars
+
 I was responsible for full-stack development, using Python and Flask.
 
-🎨 [Colour Guessing](https://github.com/airtong/colour-guessing) - 2022
+### 🎨 [Colour Guessing](https://github.com/airtong/colour-guessing) - 2022
 Page where you can guess what color the background is and receive a note for it.
+
 Made it using pure JS, just for fun.
 
 <br/>  
