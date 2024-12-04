@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **Wine.com.br**  
   
 
-- 🚀 I’m now a [AWS Certified](https://www.credly.com/badges/9afc84e3-5e38-46fc-9920-fda6d1ee7228). Running to the next one.
+- 🚀 I’m now a [AWS Certified](https://www.credly.com/badges/9afc84e3-5e38-46fc-9920-fda6d1ee7228). Running to the next certification.
   
 
 - 📜 Know about my experiences: **DevOps. SRE. AWS. GCP. Terraform. CI/CD. Java. Python. SQL. Web Development. Linux Environment.**
@@ -74,6 +74,27 @@
 <br/>  
 <br/>  
 
+## Projects I participated in
+
+🚀 [MyKPI](https://github.com/MyKPI-Inatel/MyKPI_backend) - 2024
+Platform that allows companies to carry out surveys with their employees, having detailed information about their team.
+I was responsible for back-end development, using Python, FastAPI and Pytest.
+
+📝 [Eventhis](https://github.com/S204-Inatel-2023-2/binaryhorizon_eventhis_front) - 2023
+Platform that lists events in your region, where you can purchase tickets and check in using facial recognition.
+I was responsible for front-end development, using Ionic and Angular
+
+🏎️ [Used Cars](https://github.com/lrgsouza/used-cars-api) - 2022
+Platform for buying used cars
+I was responsible for full-stack development, using Python and Flask.
+
+🎨 [Colour Guessing](https://github.com/airtong/colour-guessing) - 2022
+Page where you can guess what color the background is and receive a note for it.
+Made it using pure JS, just for fun.
+
+<br/>  
+<br/>  
+<br/>  
 
 <div align="center"><h2>Connect with me</h2></div>
 <div align="center">
